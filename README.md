@@ -2,7 +2,8 @@
 
 Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, projetado especificamente para otimizar o controle de inventário, o cadastro de doadores e o gerenciamento de doações de instituições beneficentes.
 
-<img width="1366" height="624" alt="Screenshot From 2026-10-12 23-38-52" src="https://github.com/user-attachments/assets/d0271fde-90c7-43f7-84bc-3954e135a33a" />
+<img width="1344" height="598" alt="Screenshot From 2026-10-13 00-07-38" src="https://github.com/user-attachments/assets/21bfb3e2-fe52-4a2a-a95b-d400656fb9a6" />
+
 ---
 
 ## Funcionalidades Principais
@@ -34,7 +35,7 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 * Gráficos interativos construídos com **Plotly** exibindo comparativos de estoque, volume de saídas e distribuição por categorias.
 
-<img width="1366" height="624" alt="Screenshot From 2026-10-12 23-39-58" src="https://github.com/user-attachments/assets/12e9aeda-7bff-425b-b150-bee0a221892b" />
+<img width="1344" height="598" alt="Screenshot From 2026-10-13 00-07-59" src="https://github.com/user-attachments/assets/fd7eb715-303c-4b44-834a-a221409507fb" />
 
 * **📊 Históricos & Relatórios:**
 * Tabelas completas de histórico de doações e movimentações.
