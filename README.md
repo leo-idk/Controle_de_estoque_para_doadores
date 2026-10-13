@@ -1,73 +1,46 @@
-# 📦 Sistema Controle de Estoque e Doações para instituições beneficentes
+## 📦 Sistema Controle de Estoque e Doações para instituições beneficentes
 
 Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, projetado especificamente para otimizar o controle de inventário, o cadastro de doadores e o gerenciamento de doações de instituições beneficentes.
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 * **📊 Painel de Controle e Alertas Inteligentes:**
 * Visão geral com métricas em tempo real de produtos, doadores e movimentações.
 
-
 * Alertas automáticos para produtos com estoque igual ou abaixo do mínimo recomendado.
-
 
 * Avisos preventivos para itens com prazos de validade vencidos ou próximos do vencimento (30 dias).
 
 
-
-
-* **🛠️ Gestão Completa de Produtos (CRUD):**
+* **🛠️ Gestão de Produtos (CRUD):**
 * Cadastro detalhado com categorias fixas (*Alimentos, Higiene Pessoal, Limpeza, Vestuário, Medicamentos, Outros*), controle de estoque mínimo e datas de validade.
 
 
 * Ferramenta de busca rápida por nome e opções para alterar ou excluir registros.
 
-
-
-
 * **🤝 Gestão de Doadores:**
 * Cadastro e atualização de parceiros e empresas doadoras (com contato e e-mail).
 
-
 * Histórico integrado vinculando cada doação diretamente ao seu respectivo doador.
-
-
-
 
 * **📝 Registro de Movimentações:**
 * Abas dedicadas para registro ágil de doações recebidas, entradas avulsas e saídas/distribuições com validação de estoque.
 
-
-
-
 * **📈 Curva ABC e Painel Analítico:**
 * Classificação de itens por relevância de consumo utilizando a metodologia ABC (Classes A, B e C).
 
-
 * Gráficos interativos construídos com **Plotly** exibindo comparativos de estoque, volume de saídas e distribuição por categorias.
-
-
-
 
 * **📊 Históricos & Relatórios:**
 * Tabelas completas de histórico de doações e movimentações.
 
-
 * Exportação de dados e relatórios gerais diretamente para o formato **CSV**.
-
-
-
 
 * **🤖 Analista Virtual (IA Integrada):**
 * Assistente interativo capaz de analisar o estado atual do estoque, itens críticos, validades e doadores de forma automatizada por chat.
 
-
-
-
-
----
 
 ## 💻 Tecnologias Utilizadas
 
@@ -82,8 +55,6 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 * **Plotly Express** (Visualização de dados e gráficos analíticos)
 
-
-
 ---
 
 ## ⚙️ Como Executar o Projeto Localmente
@@ -96,20 +67,14 @@ cd seu-repositorio
 
 ```
 
-
 3. Instale as dependências necessárias:
 ```bash
 pip install streamlit pandas plotly
 
 ```
-
-
 4. Execute a aplicação via Streamlit:
 ```bash
 streamlit run sistema_main.py
 
 ```
-
-
-
 ---
