@@ -1,0 +1,31 @@
+ID,Nome,Categoria,Estoque Minimo,Validade,Quantidade
+1,Arroz 5kg,Alimentos,5,2026-12-31,12
+2,Feijão 1kg,Alimentos,4,2026-11-15,3
+3,Macarrão Espaguete 500g,Alimentos,10,2027-04-10,18
+4,Óleo de Soja 900ml,Alimentos,6,2026-10-25,4
+5,Açúcar Cristal 1kg,Alimentos,8,2027-08-14,20
+6,Leite UHT 1L,Alimentos,15,2026-10-20,8
+7,Farinha de Trigo 1kg,Alimentos,5,2027-02-10,14
+8,Molho de Tomate 340g,Alimentos,8,2027-01-05,2
+9,Sabonete em Barra 90g,Higiene Pessoal,10,2028-05-20,45
+10,Creme Dental 90g,Higiene Pessoal,8,2027-09-12,30
+11,Shampoo 400ml,Higiene Pessoal,5,2027-11-30,4
+12,Papel Higiênico 4 Rolos,Higiene Pessoal,12,2030-01-01,15
+13,Desodorante Aerosol,Higiene Pessoal,6,2027-06-18,9
+14,Detergente Líquido 500ml,Limpeza,10,2028-03-15,22
+15,Água Sanitária 1L,Limpeza,8,2026-12-01,5
+16,Desinfetante 2L,Limpeza,6,2027-07-10,11
+17,Sabão em Pó 1kg,Limpeza,5,2028-01-20,7
+18,Esponja de L aço,Limpeza,10,2030-01-01,3
+19,Camisa Básica Tam G,Vestuário,4,2030-01-01,18
+20,Calça Jeans Tam 42,Vestuário,3,2030-01-01,8
+21,Par de Tapatos Infantis,Vestuário,2,2030-01-01,5
+22,Agasalho de Inverno M,Vestuário,3,2030-01-01,2
+23,Paracetamol 500mg,Medicamentos,10,2026-11-01,14
+24,Ibuprofeno 400mg,Medicamentos,8,2027-05-15,6
+25,Dipirona 500mg Gotas,Medicamentos,12,2026-10-18,4
+26,Curativos Adesivos (Band-Aid),Medicamentos,15,2028-08-30,35
+27,Cobertor de Solteiro,Outros,5,2030-01-01,10
+28,Travesseiro Macio,Outros,4,2030-01-01,6
+29,Cadeira de Rodas Dobrável,Outros,1,2030-01-01,2
+30,Muletas Aluminio Par,Outros,2,2030-01-01,3
