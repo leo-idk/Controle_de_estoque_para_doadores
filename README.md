@@ -1,12 +1,12 @@
-# Sistema de Gestão de Estoque e Doações - Lar São Vicente de Paulo
+# 📦 Sistema Controle de Estoque e Doações para instituições beneficentes
 
 Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, projetado especificamente para otimizar o controle de inventário, o cadastro de doadores e o gerenciamento de doações de instituições beneficentes.
 
 ---
 
-## Funcionalidades Principais
+## 🚀 Funcionalidades Principais
 
-* **Painel de Controle e Alertas Inteligentes:**
+* **📊 Painel de Controle e Alertas Inteligentes:**
 * Visão geral com métricas em tempo real de produtos, doadores e movimentações.
 
 
@@ -18,7 +18,7 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 
 
-* **Gestão Completa de Produtos (CRUD):**
+* **🛠️ Gestão Completa de Produtos (CRUD):**
 * Cadastro detalhado com categorias fixas (*Alimentos, Higiene Pessoal, Limpeza, Vestuário, Medicamentos, Outros*), controle de estoque mínimo e datas de validade.
 
 
@@ -27,7 +27,7 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 
 
-* **Gestão de Doadores:**
+* **🤝 Gestão de Doadores:**
 * Cadastro e atualização de parceiros e empresas doadoras (com contato e e-mail).
 
 
@@ -36,13 +36,13 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 
 
-* **Registro de Movimentações:**
+* **📝 Registro de Movimentações:**
 * Abas dedicadas para registro ágil de doações recebidas, entradas avulsas e saídas/distribuições com validação de estoque.
 
 
 
 
-* **Curva ABC e Painel Analítico:**
+* **📈 Curva ABC e Painel Analítico:**
 * Classificação de itens por relevância de consumo utilizando a metodologia ABC (Classes A, B e C).
 
 
@@ -51,7 +51,7 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 
 
-* **Históricos & Relatórios:**
+* **📊 Históricos & Relatórios:**
 * Tabelas completas de histórico de doações e movimentações.
 
 
@@ -60,13 +60,16 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 
 
-* **Analista Virtual (IA Integrada):**
+* **🤖 Analista Virtual (IA Integrada):**
 * Assistente interativo capaz de analisar o estado atual do estoque, itens críticos, validades e doadores de forma automatizada por chat.
+
+
+
 
 
 ---
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 * **Python** (Linguagem principal)
 
@@ -83,7 +86,7 @@ Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, proj
 
 ---
 
-## Como Executar o Projeto Localmente
+## ⚙️ Como Executar o Projeto Localmente
 
 1. Certifique-se de ter o **Python** instalado em sua máquina.
 2. Clone este repositório:
@@ -110,5 +113,3 @@ streamlit run sistema_main.py
 
 
 ---
-
-Deseja fazer algum ajuste ou adicionar mais detalhes específicos (como instruções de deploy ou licença) antes de publicar no seu perfil?
