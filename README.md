@@ -1,4 +1,4 @@
-## Sistema de gestão de Estoque e Doações para instituições beneficentes
+## Sistema de Cadastro de Doações
 
 Sistema web interativo desenvolvido em **Python** utilizando **Streamlit**, projetado especificamente para otimizar o controle de inventário, o cadastro de doadores e o gerenciamento de doações de instituições beneficentes.
 
